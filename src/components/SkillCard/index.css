@@ -1,0 +1,20 @@
+.skill-item{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 130px;
+    background-color: transparent;
+}
+
+.skill-img{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.heading{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: roboto;
+    align-self: center;
+}

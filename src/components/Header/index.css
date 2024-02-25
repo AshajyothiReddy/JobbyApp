@@ -1,0 +1,41 @@
+.nav-header {
+  height: 15vh;
+  background-color: #7e858e;
+}
+
+.nav-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.website-logo {
+  height: 45px;
+  width: 120px;
+  align-self: flex-start;
+}
+
+.logout-button {
+  height: 30px;
+  width: 60px;
+  background-color: #4f46e5;
+  color: #ffffff;
+  align-self: flex-end;
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+}
+
+.nav-link {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: roboto;
+  margin: 8px;
+}
